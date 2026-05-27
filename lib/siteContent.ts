@@ -34,8 +34,16 @@ export const siteContent = {
       href: "tel:+60147120491",
     },
     trustIndicator: "Serving clients worldwide",
-    imageUrl: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&h=600&fit=crop&auto=format",
-    imageAlt: "Professional insurance advisor consulting with clients",
+    backgroundImageUrl: "https://pub-b10352cd30db47758f1614c0d15bce2c.r2.dev/media/60147120491/2026-05/8ca4500b-cb62-487e-9dd9-61dcd9e2fe4b.png",
+    imageAlt: "Professional insurance advisor",
+  },
+  
+  aboutMe: {
+    headline: "About Me",
+    subtext: "With years of experience in insurance advisory, I'm dedicated to helping individuals and businesses find the right coverage for their unique needs.",
+    content: "I believe insurance isn't just about policies—it's about peace of mind. My approach is personal, transparent, and focused on building long-term relationships with my clients. Whether you're looking to optimize your personal portfolio or protect your business assets, I'm here to guide you every step of the way.",
+    imageUrl: "https://pub-b10352cd30db47758f1614c0d15bce2c.r2.dev/media/60147120491/2026-05/8ca4500b-cb62-487e-9dd9-61dcd9e2fe4b.png",
+    imageAlt: "Professional insurance advisor",
   },
   
   services: {
