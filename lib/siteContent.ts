@@ -6,19 +6,19 @@ export const siteContent = {
   
   header: {
     logoAlt: "WealthCare Insurance",
-    logoUrl: "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=80&fit=crop&auto=format",
+    logoUrl: "https://pub-b10352cd30db47758f1614c0d15bce2c.r2.dev/media/60147120491/2026-05/adcfef67-8407-454c-955b-07c59a054432.png",
     navigation: [
       { label: "Services", href: "#services" },
       { label: "About", href: "#about" },
       { label: "Contact", href: "#contact" },
     ],
     phone: {
-      label: "+60 14-712 0491",
-      href: "tel:+60147120491",
+      label: "+91 790 400 3326",
+      href: "tel:+917904003326",
     },
     cta: {
       label: "Get Started",
-      href: "https://wa.me/60147120491",
+      href: "https://wa.me/917904003326",
     },
   },
   
@@ -27,11 +27,11 @@ export const siteContent = {
     subtext: "Expert advisory services for individuals and businesses worldwide. Get personalized coverage solutions that grow with you.",
     primaryCta: {
       label: "Get Your Free Portfolio Review",
-      href: "https://wa.me/60147120491",
+      href: "https://wa.me/917904003326",
     },
     secondaryCta: {
       label: "Call Us Now",
-      href: "tel:+60147120491",
+      href: "tel:+917904003326",
     },
     trustIndicator: "Serving clients worldwide",
     backgroundImageUrl: "https://pub-b10352cd30db47758f1614c0d15bce2c.r2.dev/media/60147120491/2026-05/8ca4500b-cb62-487e-9dd9-61dcd9e2fe4b.png",
@@ -161,23 +161,23 @@ export const siteContent = {
     subtext: "Get a free, no-obligation consultation and discover how much you could save while improving your coverage.",
     button: {
       label: "Schedule Your Free Consultation",
-      href: "https://wa.me/60147120491",
+      href: "https://wa.me/917904003326",
     },
     phone: {
-      label: "Or call us at +60 14-712 0491",
-      href: "tel:+60147120491",
+      label: "Or call us at +91 790 400 3326",
+      href: "tel:+917904003326",
     },
   },
   
   footer: {
     tagline: "Your trusted partner in insurance portfolio management.",
     phone: {
-      label: "+60 14-712 0491",
-      href: "tel:+60147120491",
+      label: "+91 790 400 3326",
+      href: "tel:+917904003326",
     },
     whatsapp: {
       label: "WhatsApp",
-      href: "https://wa.me/60147120491",
+      href: "https://wa.me/917904003326",
     },
     copyright: "© 2024 WealthCare Insurance. All rights reserved.",
     disclaimer: "WealthCare Insurance provides advisory services and portfolio management. Insurance products are underwritten by respective insurance carriers.",
